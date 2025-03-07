@@ -16,17 +16,18 @@ OPERATORS IN PYTHON
 
 2. Comparison Operators ⚖️
    
-== : Equal to 🤝
+ == : Equal to 🤝
 
-!= : Not equal to ❌
+ != : Not equal to ❌
 
-> : Greater than ➡️
+ > : Greater than ➡️
 
-< : Less than ⬅️
+ < : Less than ⬅️
 
->= : Greater than or equal to 📈
+ >= : Greater than or equal to 📈
 
-<= : Less than or equal to 📉
+ <= : Less than or equal to 📉
+
 
 3. Logical Operators 🤔
 
@@ -35,6 +36,7 @@ and : Both must be true 🔄
 or : One of them must be true 🔗
 
 not : Negation 🚫
+
 
 5. Assignment Operators 🖊️
 
@@ -61,13 +63,15 @@ is : True if both are the same 👫
 
 is not : True if both are different 🚫
 
+
 6. Membership Operators 🔑
    
 in : Value is in the sequence ✅
 
 not in : Value is not in the sequence ❌
 
-Bitwise Operators 💻
+
+7.Bitwise Operators 💻
 
 & : AND 🔒
 
