@@ -38,7 +38,7 @@ or : One of them must be true 🔗
 not : Negation 🚫
 
 
-5. Assignment Operators 🖊️
+4. Assignment Operators 🖊️
 
    
 = : Assigns value 💾
